@@ -1,0 +1,52 @@
+.txtcolor{Color: rgb(224, 48, 107);}
+.bgcolor2{background-color: rgb(224, 48, 107);}
+/* .txtcolor{Color: rgb(240, 142, 175);} */
+
+.bgcolor{background-color: rgb(242, 74, 130);}
+.bgcolor:hover{background-color: rgb(242, 74, 130);}
+
+.bgicon{background-color: rgb(247, 195, 212);}
+.active {border-color: rgb(224, 48, 107);}
+/* .see{  background: linear-gradient(to bottom, #33ccff 0%, #ff00ff 100%);} */
+/* .see{color:#000066}
+.txtdarkblu{color:#000066} */
+.see{color:#000033}
+.txtdarkblu{color:#000033}
+.bgdarkblu{background-color:#000033}
+.bgdarkblu:hover{background-color:#000033}
+
+.borderbottom{border-bottom:inset; border-color: rgb(224, 48, 107);padding-bottom:5px;}
+
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid  rgb(224, 48, 107);
+  }
+  input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid  rgb(224, 48, 107);
+  }
+  input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid  rgb(224, 48, 107);
+  }
+  textarea[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid  rgb(224, 48, 107);
+  }
